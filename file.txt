@@ -1,0 +1,7 @@
+creational patterns
+	singleton pattern
+	factory pattern
+	builder pattern
+	adapter pattern
+behavour patterns
+structural patterns
